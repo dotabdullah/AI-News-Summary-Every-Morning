@@ -61,17 +61,5 @@ We build intelligent workflows for businesses to automate tasks, improve product
 
 ---
 
-### 🖼️ Preview
-
-![Workflow Preview](./Get%20AI%20News%20Summary%20Every%20Morning%20Through%20Gmail.png)
-
----
-
-### 🧾 License
-
-This project is licensed under the **MIT License** — feel free to use and modify it.
-
----
-
 **#Automation #AI #n8n #GoogleGemini #EmailAutomation #AITools #WorkflowAutomation #TechInnovation**
 
